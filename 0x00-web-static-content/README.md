@@ -1,6 +1,6 @@
-# Deploy a static website onto a cloud platform
+# Deploy a static website into a cloud platform
 
-The aim of this project is to deploy the static content to an AWS cloud platform
+The aim of this project is to deploy the static content to AWS cloud platform
 
 ## How Tos:
 1. Ensure the website content to be deployed is already pushed to GitHub or any version control system registery
@@ -33,7 +33,7 @@ sudo ./deploy-static.sh
 
 ## Disclaimer:
 - Please be informed that this method is not the only way of doing this as there are plethora ways this can be done.
-- It is assumed you already know how to ssh into a remote linux server
+- It is assumed you already know about AWS EC2 and how to ssh into a remote linux server
 - The script can be customized to your taste using variables and args. I intentionally scripted it this way for simplicity and please do not forget to replace the github repo url with yours
 
 ### Thank you
