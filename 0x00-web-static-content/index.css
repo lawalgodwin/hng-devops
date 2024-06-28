@@ -1,0 +1,15 @@
+*,
+::after,
+::before {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+p{
+    margin: 2em;
+}
+
+.name {
+    font-size: larger;
+}
